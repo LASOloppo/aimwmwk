@@ -26,24 +26,24 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Atsairbot-Md" //namabot kalian
-global.ownername= "Atsair Mwmwk" //nama kalian
+global.botname = "Derrickbot-Md" //namabot kalian
+global.ownername= "Rxstor" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UC3VSUWzMu_tk61XIiH1GgYg" //bebas asal jan hapus
 global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
 global.email = "atsairneedcuan@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6289510402229'] //premium user
-global.owner = ["6289510402229","6289510402229"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6289510402229" // nomor wa kalian
-global.ownernomerr = "+6289510402229" //nmr wa kalian
+global.premium = ['6283872144811'] //premium user
+global.owner = ["6283872144811","6283872144811"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6283872144811" // nomor wa kalian
+global.ownernomerr = "+6283872144811" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/4687abcc6ba36b17e8e52.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Atsairbot-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh Atsair Slebew dingin slemet cees' //sticker wm ganti nama kalian
+global.packname = '© Rxtor-Mdོ' //sticker wm ubah
+global.author = 'Di Buat Oleh DerrickBot' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
